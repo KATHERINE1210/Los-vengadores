@@ -5,4 +5,5 @@
 3. Hell's Kitchen
 4. Piura
 5. Tacna
+6. Trujillo
 
